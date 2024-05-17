@@ -1,10 +1,10 @@
-# newsecond_app
+# news_app
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app shows the news by fetching it from an api and then also provide links to visit the actual article.
 
 A few resources to get you started if this is your first Flutter project:
 
